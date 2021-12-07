@@ -27,6 +27,7 @@ Padronização de retornos
 
 Traduções
 
+Testes automatizados
   
 ## License
 
